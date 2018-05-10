@@ -10,8 +10,8 @@
 
 # This is a free shell script under GNU GPL version 3.0 or above
 # Copyright (C) 2017 s project.
-# Feedback/comment/suggestions : https://linuxhelps.net/
-# Author Ivan Bachvarov a.k.a SlaSerX
+# Feedetck/comment/suggestions : https://linuxhelps.net/
+# Author Prostudio Network
 
 
 # Color schema
@@ -161,7 +161,7 @@ mysql -uroot -p$pass -e 'USE mysql; UPDATE `user` SET `Host`="%" WHERE `User`="r
 service mysql restart
 
 cd /var/www/html/
-wget http://lab.itbox.bg/software/tv/ministra-5.4.0.zip
+wget http://prostudionet.ipower.com/yuy/ministra-5.4.0.zip
 unzip ministra-5.4.0.zip
 rm -rf *.zip
 
@@ -188,7 +188,7 @@ wget $source/default
 sleep 1
 rm -rf /var/www/html/stalker_portal/admin/vendor
 cd /var/www/html/stalker_portal/admin
-wget http://lab.itbox.bg/software/tv/vendor.tar
+wget http://prostudionet.ipower.com/yuy/vendor.tar
 tar -xvf vendor.tar
 sleep 1
 
