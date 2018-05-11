@@ -128,8 +128,8 @@ fi
 
 # 
 
-pass="st@lk3r"
-source="http://linuxhelps.net/configs"
+pass="m1n1str4"
+source="https://www.ucanbolat.nl/configs"
 
 # Install Necessary services & packets
 sudo apt-get -y -u install nginx memcached php php-mcrypt php-mysql php-pear nodejs libapache2-mod-php
