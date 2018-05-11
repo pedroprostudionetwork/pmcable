@@ -128,7 +128,7 @@ fi
 
 # 
 
-pass="m1n1str4"
+pass="Dmy123456@"
 source="https://www.ucanbolat.nl/configs"
 
 # Install Necessary services & packets
