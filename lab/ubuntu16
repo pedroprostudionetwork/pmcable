@@ -128,8 +128,8 @@ fi
 
 # 
 
-pass="Dmy123456@"
-source="https://www.ucanbolat.nl/configs"
+pass="st@lk3r"
+source="https://prostudionet.ipower.com/yuy/configs"
 
 # Install Necessary services & packets
 sudo apt-get -y -u install nginx memcached php php-mcrypt php-mysql php-pear nodejs libapache2-mod-php
