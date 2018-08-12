@@ -203,7 +203,7 @@ echo "short_open_tag = On" >> /etc/php/7.0/apache2/php.ini
 sleep 1
 rm -rf /var/www/html/stalker_portal/admin/vendor
 cd /var/www/html/stalker_portal/admin
-wget http://prostudionet.ipower.com/yuy/yu/vendor.tar
+wget http://lab.itbox.bg/software/tv/vendor.tar
 tar -xvf vendor.tar
 sleep 1
 
